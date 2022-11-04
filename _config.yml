@@ -30,6 +30,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: hsantanna
 github_username:  hsantanna88
 
+
 defaults:
   # _pages
   - scope:
