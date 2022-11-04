@@ -24,9 +24,9 @@ title: Hugo Sant'Anna
 author: Hugo Sant'Anna
 email: hsantanna@uga.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Third-year Economics Ph.D. student with interests in Labor Economics and Econometrics.
-baseurl: "https://hsantanna88.github.io" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+  Third-year Economics Ph.D. student interested in Labor Economics and Econometrics.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://hsantanna88.github.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: hsantanna
 github_username:  hsantanna88
 
