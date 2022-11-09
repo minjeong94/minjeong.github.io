@@ -15,7 +15,7 @@ author: Hugo Sant'Anna
 
 Hello! I am a third-year Ph.D. student in the Economics Department at the University of Georgia.
 
-My primary research interests are Labor Economics and Econometrics. The focus of my recent studies is using panel data to find the effects of the Venezuelan crisis on the Brazilian job market. On the econometrics side, how difference-in-differences models behave with time-varying covariates. I also contributed to the R coding of Scott Cunningham’s The Mixtape and investigated the causal effects of police interventions in Rio’s slums on crime.
+My research interests are Labor Economics and Econometrics. The focus of my recent studies is to employ panel data to find the effects of the Venezuelan crisis on the Brazilian job market. On the econometrics side, how difference-in-differences models behave with time-varying covariates. I also contributed to the R coding of Scott Cunningham’s The Mixtape and investigated the causal effects of police interventions in Rio’s slums on crime.
 
 **<a href="files/Sant_Anna_CV.pdf">Curriculum Vitae</a>**
 
