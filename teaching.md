@@ -1,6 +1,6 @@
 ---
 layout: single
-title: 
+title: Teaching
 permalink: /teaching/
 ---
 
@@ -12,4 +12,4 @@ permalink: /teaching/
   
 * Master Machine Learning (Fall 2022)
 
-* Undergraduate Econometrics (Fall 2020)
+* Undergraduate Econometrics (Fall 2020, Spring 2021)
