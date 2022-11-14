@@ -8,7 +8,7 @@ permalink: /teaching/
 
 * Ph.D. Econometrics II (Spring 2022)
 
-* Master Introduction Causal Inference (Fall 2021, Fall 2022)
+* Master Introduction to Causal Inference (Fall 2021, Fall 2022)
   
 * Master Machine Learning (Fall 2022)
 
