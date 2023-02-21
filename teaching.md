@@ -6,7 +6,7 @@ permalink: /teaching/
 
 ## Teaching Assistant
 
-* Ph.D. Econometrics II (Spring 2022)
+* Ph.D. Econometrics II (Spring 2022, Spring 2023)
 
 * Master Introduction to Causal Inference (Fall 2021, Fall 2022)
   

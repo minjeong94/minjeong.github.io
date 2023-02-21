@@ -6,9 +6,9 @@ permalink: /research/
 
 ## Working Papers
 
-* [Difference in Differences with Time Varying Covariates](https://arxiv.org/abs/2202.02903) (with Brantly Callaway, Carolina Caetano, and Stroud Payne)
+* [Difference in Differences with Time Varying Covariates](https://arxiv.org/abs/2202.02903) (with [Brantly Callaway](https://bcallaway11.github.io/), Carolina Caetano, and Stroud Payne)
 
-* [Interior versus Frontier: Refugee Crisis, Market Size, and Wages in Brazil]() (with Samyam Shrestha, publicly available soon)
+* [The Effects of the Venezuelan Refugee Crisis on the Brazilian Labor Market](https://arxiv.org/abs/2302.04201) (with [Samyam Shrestha](https://sites.google.com/view/shsamyam/home))
 
 ## Contributions
 
