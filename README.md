@@ -1,3 +1,1 @@
-# hsantanna.org
-
-My personal website.
+# Min Jeong's personal website
