@@ -19,4 +19,4 @@ permalink: /research/
 * [Effects of milling methods and cultivars on physicochemical properties of whole wheat flour](https://doi.org/10.1155/2019/3416905)
 
 ## Book Chapter
-* [Effect of High-Pressure Technologies on Enzymes: Science and Applications - Chapter 14. ](https://doi.org/10.1016/B978-0-323-98386-0.00007-5) with Michael Diehl and Jose I. Reyes-De-Corcuera
+* [Effect of High-Pressure Technologies on Enzymes: Science and Applications - Chapter 14. Effect of high-pressure technologies on enzymes used in nonfood processing applications](https://doi.org/10.1016/B978-0-323-98386-0.00007-5) with Michael Diehl and Jose I. Reyes-De-Corcuera
