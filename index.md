@@ -13,7 +13,7 @@ author: Min Jeong Kang
   </tr>
 </table>
 
-Hello! I am a forth-year Ph.D. student in the Food Science and Technology Department at the University of Georgia.
+Hello! I am a fourth-year Ph.D. student in the Food Science and Technology Department at the University of Georgia.
 
 My research interests are Food Metabolomics,  Food Processing, and Application of Machine Learning Algorithms for food science field. The focus of my recent studies is to evaluate the quality of pecan color and scab resistance using metabolomic analysis combined with machine learning algorithms. In terms of food processing, which was my master's thesis, I've worked on how whole wheat flour quality can be differentiated by enzyme treatment, milling methods, and cultivar genotyupe. I also performed sensory analysis, including both consumer test and quantitative descriptive analysis (QDA) with diverse food products, such as steamed rice, tea, wheat beer, etc.
 
