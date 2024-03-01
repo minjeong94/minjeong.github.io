@@ -23,7 +23,7 @@ My research interests are Food Metabolomics,  Food Processing, and Application o
 
 **Recent Updates:**
 
-* I, Dr. Pegg, Dr.Kerr, Dr.Wells, Dr.Conner, and Dr.Suh are working on paper titled "Metabolomics Analysis with Machine Learning Approach Enables the Evaluation of Postharvest Pecan Color Stability" 
+* Currently, I'm working on my third chapter research titled "Metabolomics Analysis with Machine Learning Approach Enables the Evaluation of Postharvest Pecan Color Stability" with Dr. Pegg, Dr.Kerr, Dr.Wells, Dr.Conner, and Dr.Suh. 
 
 <br>
 
