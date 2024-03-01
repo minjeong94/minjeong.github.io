@@ -18,3 +18,5 @@ permalink: /research/
 * [The Effects of Transglutaminase and Refrigerated Storage on the Physicochemical Properties of Whole Wheat Dough and Noodles](https://doi.org/10.3390/foods10071675)
 * [Effects of milling methods and cultivars on physicochemical properties of whole wheat flour](https://doi.org/10.1155/2019/3416905)
 
+## Book Chapter
+* [Effect of High-Pressure Technologies on Enzymes: Science and Applications - Chapter 14. ](https://doi.org/10.1016/B978-0-323-98386-0.00007-5) with Michael Diehl and Jose I. Reyes-De-Corcuera
