@@ -1,7 +1,9 @@
 ---
 layout: single
-title: CV
-permalink: /cv/
+title: Conference Presentation
+permalink: /conference/
 ---
 
 [Link to CV](../files/CV_minjeong_kang.pdf)
+
+- 
