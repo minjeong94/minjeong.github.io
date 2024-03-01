@@ -23,7 +23,7 @@ My research interests are Food Metabolomics,  Food Processing, and Application o
 
 **Recent Updates:**
 
-* I, Ronald B. Pegg, William Kerr, Lenny Wells, Patrick J. Conner, and Joon Hyuk Suh are working on paper titled "Metabolomics Analysis with Machine Learning Approach Enables the Evaluation of Postharvest Pecan Color Stability" 
+* I, Dr. Pegg, Dr.Kerr, Dr.Wells, Dr.Conner, and Dr.Suh are working on paper titled "Metabolomics Analysis with Machine Learning Approach Enables the Evaluation of Postharvest Pecan Color Stability" 
 
 <br>
 
