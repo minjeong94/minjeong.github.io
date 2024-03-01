@@ -1,6 +1,6 @@
 ---
 layout: single
-title: 
+title: Webpage
 permalink: /
 author_profile: true
 author: Min Jeong Kang
