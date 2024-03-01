@@ -1,8 +1,8 @@
 main:
   - title: "Home"
     url: /
-  - title: "CV"
-    url: /cv/
+  - title: "Conference Presentation"
+    url: /conference/
   - title: "Research and Projects"
     url: /research/
   - title: "Teaching"
