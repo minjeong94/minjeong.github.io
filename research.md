@@ -6,16 +6,15 @@ permalink: /research/
 
 ## Working Papers
 
-* [Difference in Differences with Time Varying Covariates](https://arxiv.org/abs/2202.02903) (with [Brantly Callaway](https://bcallaway11.github.io/), Carolina Caetano, and Stroud Payne)
+* Metabolomics Analysis with Machine Learning Approach Enables the Evaluation of Postharvest Pecan Color Stability (with Ronald B. Pegg, William Kerr, Lenny Wells, [Patrick Conner]([https://scholar.google.com/citations?hl=ko&user=OG_3ojIAAAAJ&view_op=list_works&sortby=pubdate),and my advisor [Joonhyuk Suh]([https://scholar.google.com/citations?hl=ko&user=Xxs0MeIAAAAJ), )
 
-* [The Effects of the Venezuelan Refugee Crisis on the Brazilian Labor Market](https://arxiv.org/abs/2302.04201) (with [Samyam Shrestha](https://sites.google.com/view/shsamyam/home))
+* Discovery of early biomarkers for the scab resistance of pecan seedlings using metabolomic analysis combined with machine learning algorithms (with Ronald B. Pegg, Lenny Wells, [Patrick Conner]([https://scholar.google.com/citations?hl=ko&user=OG_3ojIAAAAJ&view_op=list_works&sortby=pubdate),and my advisor [Joonhyuk Suh]([https://scholar.google.com/citations?hl=ko&user=Xxs0MeIAAAAJ),)
 
-## Contributions
+## Main Author Publications
 
-* [R coding in Scott Cunningham's Causal Inference: The Mixtape](https://mixtape.scunning.com/) (with Terry Tsai)
-
-## Master Thesis
-
-* [A Difference-in-Differences Approach to the UPP Policy and Crime Displacement in Rio](https://baylor-ir.tdl.org/bitstream/handle/2104/11007/Hugo_Rodrigues_Thesis.pdf?sequence=3)
-
+* [Metabolomic Analysis Reveals Linkage between Chemical Composition and Sensory Quality of Different Floral Honey Samples](https://doi.org/10.1016/j.foodres.2023.113454)
+* [LC–MS Analysis of Urolithin-related Metabolites in Human Plasma Reveals Glucuronide Conjugates as the Primary Species after 4-weeks of Pecan Consumption](https://doi.org/10.31665/JFB.2023.18336)
+* [Metabolomics as a Tool to Evaluate Nut Quality and Safety](https://doi.org/10.1016/j.tifs.2022.11.002)
+* [The Effects of Transglutaminase and Refrigerated Storage on the Physicochemical Properties of Whole Wheat Dough and Noodles](https://doi.org/10.3390/foods10071675)
+* [5)	Effects of milling methods and cultivars on physicochemical properties of whole wheat flour](https://doi.org/10.1155/2019/3416905)
 
