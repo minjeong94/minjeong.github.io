@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Conference Presentation
+title: 
 permalink: /conference/
 ---
 
