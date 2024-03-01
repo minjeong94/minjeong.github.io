@@ -2,6 +2,7 @@
 layout: single
 title:
 permalink: /
+avatar: kmj.jpg
 author_profile: true
 author: Min Jeong Kang
 ---
