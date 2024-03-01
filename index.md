@@ -23,7 +23,7 @@ My research interests are Food Metabolomics, Application of Machine Learning Alg
 
 **Recent Updates:**
 
-* I have completed on my third chapter research titled "Metabolomics Analysis with Machine Learning Approach Enables the Evaluation of Postharvest Pecan Color Stability" with Dr. Pegg, Dr.Kerr, Dr.Wells, Dr.Conner, and Dr.Suh. We will be submitting this paper soon!
+* I've completed on my third chapter research titled "Metabolomics Analysis with Machine Learning Approach Enables the Evaluation of Postharvest Pecan Color Stability" with Dr. Pegg, Dr.Kerr, Dr.Wells, Dr.Conner, and Dr.Suh. We will be submitting this paper soon!
 * Currently, I'm working on my second chapter titled "Discovery of early biomarkers for the scab resistance of pecan seedlings using metabolomic analysis combined with machine learning algorithms".
 
 <br>
