@@ -5,19 +5,17 @@ Min Jeong Kang:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:hsantanna@uga.edu"
+      url: "mailto:mk41285@uga.edu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://hsantanna88.github.io/"
+      url: "https://minjeong94.github.io/"
     - label: "Github"
       icon: "fab fa-github"
-      url: "https://github.com/hsantanna88"
+      url: "https://github.com/minjeong94"
     - label: "Google Scholar"
       icon: "fas fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=RN8sG7YAAAAJ&hl=ko"
     - label: "UGA Food Scienc and Technology"
       icon: "fas fa-university"
       url: "https://www.caes.uga.edu/about/personnel/person.html/23976/min-jeong-kang.html"
-    - label: UGA ERG
-      icon: "fa fa-bookmark"
-      url: "https://sites.google.com/view/uga-erg/"
+
