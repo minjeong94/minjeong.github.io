@@ -8,7 +8,7 @@ author: Min Jeong Kang
 
 <table style="width: 100%;">
   <tr>
-	<td style="width: 90%; border-bottom:0px;"><h1>Hugo Sant'Anna</h1></td>
+	<td style="width: 90%; border-bottom:0px;"><h1>Min Jeong Kang</h1></td>
 	<td style="width: 10%; border-bottom:0px;"><img src="assets/images/uga-logo.png"/></td>
   </tr>
 </table>
