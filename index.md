@@ -29,4 +29,4 @@ My research interests are Food Metabolomics,  Food Processing, and Application o
 
 **Contact Information:**
 
-Email: MinJeong.Kang [at] uga [dot] edu
+Email: MinJeong.Kang.uga.edu
