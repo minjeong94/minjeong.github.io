@@ -1,7 +1,7 @@
 Hugo Sant'Anna:
   name        : "Min Jeong Kang"
   bio         : "Fourth-year Ph.D. Student \n\n University of Georgia"
-  avatar      : "assets/images/hugo_profile.jpg"
+  avatar      : "assets/images/kmj.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -14,13 +14,10 @@ Hugo Sant'Anna:
       url: "https://github.com/hsantanna88"
     - label: "Google Scholar"
       icon: "fas fa-graduation-cap"
-      url: "https://scholar.google.com/citations?&user=4NIRsiYAAAAJ"
-    - label: "Twitter"
-      icon: "fab fa-twitter"
-      url: "http://www.twitter.com/hsantanna"
-    - label: "UGA Economics"
+      url: "https://scholar.google.com/citations?user=RN8sG7YAAAAJ&hl=ko"
+    - label: "UGA Food Scienc and Technology"
       icon: "fas fa-university"
-      url: "https://www.terry.uga.edu/economics/index.php"
+      url: "https://www.caes.uga.edu/about/personnel/person.html/23976/min-jeong-kang.html"
     - label: UGA ERG
       icon: "fa fa-bookmark"
       url: "https://sites.google.com/view/uga-erg/"
