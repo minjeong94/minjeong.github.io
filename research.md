@@ -16,5 +16,5 @@ permalink: /research/
 * [LC–MS Analysis of Urolithin-related Metabolites in Human Plasma Reveals Glucuronide Conjugates as the Primary Species after 4-weeks of Pecan Consumption](https://doi.org/10.31665/JFB.2023.18336)
 * [Metabolomics as a Tool to Evaluate Nut Quality and Safety](https://doi.org/10.1016/j.tifs.2022.11.002)
 * [The Effects of Transglutaminase and Refrigerated Storage on the Physicochemical Properties of Whole Wheat Dough and Noodles](https://doi.org/10.3390/foods10071675)
-* [5)	Effects of milling methods and cultivars on physicochemical properties of whole wheat flour](https://doi.org/10.1155/2019/3416905)
+* [Effects of milling methods and cultivars on physicochemical properties of whole wheat flour](https://doi.org/10.1155/2019/3416905)
 
