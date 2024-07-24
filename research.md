@@ -12,6 +12,7 @@ permalink: /research/
 
 ## Publications
 * [Metabolomic analysis combined with machine learning algorithms enables the evaluation of postharvest pecan color stability] / R&R in Food Chemistry
+
   Authors: Min Jeong Kang, Ronald B. Pegg, William L. Kerr, M. Lenny Wells, Patrick J. Conner, Joon Hyuk Suh*
 * [Stabilization of galactose oxidase by high hydrostatic pressure: Insights on the role of cavities size](https://doi.org/10.1002/bit.28715)  
   Authors: Min Jeong Kang, JI Reyes‐De‐Corcuera*
