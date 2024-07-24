@@ -16,6 +16,8 @@ permalink: /conference/
 ![presentation](assets/images/pecan.jpg)
 
 ## Poster Presentations
+* "Metabolomics Approach for Flavor Biosynthetic Pathway Discovery in Different Apple Cultivars Grown in Korea"
+  19th Annual Conference of Metabolomics Society (MetSoc), Osaka, Japan (Jun 2024)
 * “Metabolomic analysis reveals linkage between chemical composition and sensory quality in different varieties of honey”  
   19th Annual Conference of Metabolomics Society (MetSoc), Niagara Falls, Canada, (Jun 2023)
 ![presentation](assets/images/honey.jpg)
