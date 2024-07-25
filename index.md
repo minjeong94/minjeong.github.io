@@ -25,7 +25,7 @@ My research interests are Food Metabolomics, using Machine Learning Algorithms t
 **Recent Updates:**
 
 * One of dissertation chapters named "Metabolomics Analysis with Machine Learning Approach Enables the Evaluation of Postharvest Pecan Color Stability" got a R&R in Food Chemistry! We will be publishing this paper soon!
-* Currently, I'm working on my second chapter titled "Discovery of early biomarkers for the scab resistance of pecan seedlings using metabolomic analysis combined with machine learning algorithms". I will be presenting this research in American Society for Horticultural Science (Sep 2024)!
+* Currently, I'm working on my second chapter titled "Discovery of early biomarkers for the scab resistance of pecan seedlings using metabolomic analysis combined with machine learning algorithms". I will be presenting this research at American Society for Horticultural Science in Hawaii, honolulu (Sep 2024)!
   
 <br>
 
