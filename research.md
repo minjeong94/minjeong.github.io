@@ -15,7 +15,8 @@ permalink: /research/
 * Unraveling rewired metabolic network in organic tomato fruits using a pathway-based metabolomics approach
   
 ## Publications
-* [Metabolomic analysis combined with machine learning algorithms enables the evaluation of postharvest pecan color stability](https://doi.org/10.1016/j.foodchem.2024.140814) / Food Chemistry /
+* [Metabolomic analysis combined with machine learning algorithms enables the evaluation of postharvest pecan color stability](https://doi.org/10.1016/j.foodchem.2024.140814)  
+  Food Chemistry   
   Authors: Min Jeong Kang, Ronald B. Pegg, William L. Kerr, M. Lenny Wells, Patrick J. Conner, Joon Hyuk Suh*
 * [Metabolomic Analysis Reveals Linkage between Chemical Composition and Sensory Quality of Different Floral Honey Samples](https://doi.org/10.1016/j.foodres.2023.113454)/ Food Research International / Authors: Min Jeong Kang, Keup-Rae Kim, Keono Kim, Aria G. Morrill, Chuleui Jung, Sukjun Sun, Dong-Hee Lee, Joon Hyuk Suh*, Jeehye Sung*
 * [LC–MS Analysis of Urolithin-related Metabolites in Human Plasma Reveals Glucuronide Conjugates as the Primary Species after 4-weeks of Pecan Consumption](https://doi.org/10.31665/JFB.2023.18336) / Journal of Food Bioactives / Authors: Min Jeong Kang, Joon Hyuk Suh, Liana L. Guarneiri, Jamie A. Cooper, Chad M. Paton*
