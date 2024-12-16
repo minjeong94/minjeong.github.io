@@ -28,7 +28,7 @@ permalink: /conference/
   19th Annual Conference of Metabolomics Society (MetSoc), Osaka, Japan (Jun 2024)
 * "Metabolomic analysis reveals the relationship between sensory quality and metabolites of different floral honey”  
   International Flavor Summit, Orlando, FL (Mar 2024)  
-  <img src="assets/images/flavor_poster.jpg" alt="poster" style="width:50%; height:auto;">
+  <img src="assets/images/flavor_poster.jpg" alt="poster" style="width:50%; height:50%">
 * “Metabolomic analysis reveals linkage between chemical composition and sensory quality in different varieties of honey”  
   19th Annual Conference of Metabolomics Society (MetSoc), Niagara Falls, Canada (Jun 2023)  
   <img src="assets/images/honey.jpg" alt="poster" style="width:50%; height:auto;">
