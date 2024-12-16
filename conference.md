@@ -7,8 +7,8 @@ permalink: /conference/
 ## Seminars & Oral Presentations
 
 * "Discovery of early biomarkers for the scab resistance of pecan seedlings using metabolomic analysis combined with machine learning algorithms"   
-  American Society for Horticultural Science (ASHS), Honolulu, Hawaii (Sep 2024)
-![presentation](assets/images/oral_hawaii.jpg)
+  American Society for Horticultural Science (ASHS), Honolulu, Hawaii (Sep 2024)  
+  <img src="assets/images/oral_hawaii.jpg" alt="presentation" style="width:50%; height:auto;">
 * "Metabolomics with machine learning: Application for Food Science and Technology"   
   FDST 3000, University of Georgia, Athens, GA (Sep 2024)
 * "Metabolomic analysis with machine learning algorithms enables the evaluation of postharvest color stability in different pecan varieties”   
