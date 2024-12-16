@@ -6,10 +6,10 @@ permalink: /research/
 
 ## Working Papers
 
-# First-authored papers
+### First-authored papers
 * Discovery of early biomarkers for the scab resistance of pecan seedlings using metabolomic analysis combined with machine learning algorithms (with [Gaurab Bhattarai](https://scholar.google.com/citations?user=wbwJubIAAAAJ&hl=en&oi=sra), [Ronald B. Pegg](https://scholar.google.com/citations?hl=en&user=EDDiqYgAAAAJ&view_op=list_works&sortby=pubdate), Lenny Wells, [Patrick Conner](https://scholar.google.com/citations?hl=ko&user=OG_3ojIAAAAJ&view_op=list_works&sortby=pubdate),and my advisor [Joonhyuk Suh](https://scholar.google.com/citations?hl=ko&user=Xxs0MeIAAAAJ))
 * Discovery of mature biomarkers for scab resistance of pecan tree leaves using metabolomics and machine learning 
-# co-authored papers 
+### Co-authored papers 
 * Approach for flavor biosynthetic pathway discovery in different apple cultivars grown in Korea
 * Integrative metabolomics and statistical correlation unravel key flavor biosynthesis in pecans
 * Unraveling rewired metabolic network in organic tomato fruits using a pathway-based metabolomics approach
