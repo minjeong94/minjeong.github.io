@@ -1,6 +1,7 @@
 ---
 layout: single
 title: Conference Presentations
+classes: wide
 permalink: /conference/
 ---
 
