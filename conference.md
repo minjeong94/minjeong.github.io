@@ -28,9 +28,12 @@ permalink: /conference/
   American Society for Horticultural Science (ASHS), Honolulu, Hawaii (Sep 2024)
 * "Metabolomics Approach for Flavor Biosynthetic Pathway Discovery in Different Apple Cultivars Grown in Korea"  
   19th Annual Conference of Metabolomics Society (MetSoc), Osaka, Japan (Jun 2024)
-* "
-
-  <img src="assets/images/honey.jpg" alt="poster" style="width:50%; height:auto;">
+* "Metabolomic analysis reveals the relationship between sensory quality and metabolites of different floral honey”  
+  International Flavor Summit, Orlando, FL (Mar 2024)  
+  ![poster](assets/images/flavor_poster.jpg){: style="width:50%; height:auto;"}
+* “Metabolomic analysis reveals linkage between chemical composition and sensory quality in different varieties of honey”  
+  19th Annual Conference of Metabolomics Society (MetSoc), Niagara Falls, Canada (Jun 2023)  
+  ![poster](assets/images/honey.jpg){: style="width:50%; height:auto;"}
 * “Determination of Urolithin Related Metabolites in Human Plasma by LC-MS Analysis – Potential Biomarkers for Pecan Consumption"  
   36th Southern Section of AOAC INTERNATIONAL (SSAOAC), Atlanta, GA (Apr 2023)
 
