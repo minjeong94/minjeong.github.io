@@ -26,7 +26,7 @@ My research interests are Food Metabolomics, using Machine Learning Algorithms t
 **Recent Updates:**
 
 * I was awarded as the second place in 2024 ASHS Scholars Ignite Competition at Hawaii!! 
-![presentation](assets/images/ignite.jpg)
+![presentation](assets/images/ignite.jpg){: style="width:50%; height:auto;"}
 * Currently, I'm working on my second and third chapter titled "Discovery of early biomarkers for the scab resistance of pecan seedlings using metabolomic analysis combined with machine learning algorithms" and "Discovery of mature biomarkers for scab resistance of pecan tree leaves using metabolomics and machine learning". 
   
 <br>
