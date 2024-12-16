@@ -35,6 +35,3 @@ permalink: /conference/
   36th Southern Section of AOAC INTERNATIONAL (SSAOAC), Atlanta, GA (Apr 2023)
 
 
-## CV
-[Link to CV](../files/CV_minjeong_kang.pdf)
-
