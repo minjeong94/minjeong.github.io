@@ -16,7 +16,7 @@ author: Min Jeong Kang
 
 Hello! I am a 5th year Ph.D. candidate in the Food Science and Technology Department at the University of Georgia.
 
-My research interests are Food Metabolomics, using Machine Learning Algorithms to select biomarkers, and Food Processing. My recent work involves evaluating pecan quality, looking at biomarkers for desirable color and scab resistance using metabolomics and machine learning. For my master's thesis, I studied how to differentiate whole wheat flour quality through enzyme treatments, milling methods, and cultivar genotypes. I have also conducted sensory analyses, including both consumer test and quantitative descriptive analysis (QDA) with diverse food products, such as steamed rice, tea, liquor, etc.
+My research interests are Food Metabolomics, using Machine Learning Algorithms to select biomarkers, and Flavoromics. My recent work involves evaluating pecan quality, looking at biomarkers for desirable color and scab resistance using metabolomics and machine learning. For my master's thesis, I mainly worked on sensory evaluation and studied how to differentiate whole wheat flour quality through enzyme treatments, milling methods, and cultivar genotypes. I have conducted sensory analyses, including both consumer test and quantitative descriptive analysis (QDA) with diverse food products, such as steamed rice, tea, liquor, etc.
 
 **<a href="files/CV_minjeong_kang.pdf">Curriculum Vitae</a>**
 
@@ -24,8 +24,8 @@ My research interests are Food Metabolomics, using Machine Learning Algorithms t
 
 **Recent Updates:**
 
-* One of dissertation chapters named "Metabolomics Analysis with Machine Learning Approach Enables the Evaluation of Postharvest Pecan Color Stability" got a R&R in Food Chemistry! We will be publishing this paper soon!
-* Currently, I'm working on my second chapter titled "Discovery of early biomarkers for the scab resistance of pecan seedlings using metabolomic analysis combined with machine learning algorithms". I will be presenting this research at American Society for Horticultural Science in Hawaii, honolulu (Sep 2024)!
+* I was awarded as the second place in 2024 ASHS Scholars Ignite Competition at Hawaii!! 
+* Currently, I'm working on my second and third chapter titled "Discovery of early biomarkers for the scab resistance of pecan seedlings using metabolomic analysis combined with machine learning algorithms" and "Discovery of mature biomarkers for scab resistance of pecan tree leaves using metabolomics and machine learning". 
   
 <br>
 
