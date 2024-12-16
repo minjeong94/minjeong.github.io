@@ -20,7 +20,7 @@ permalink: /conference/
   ![presentation](assets/images/apple_flavor.jpg){: style="width:50%; height:auto;"}
 * “Determination of Urolithin Related Metabolites in Human Plasma by LC-MS Analysis – Potential Biomarkers for Pecan Consumption”  
   36th Southern Section of AOAC INTERNATIONAL (SSAOAC), Atlanta, GA (Apr 2023)  
-  ![presentation](assets/images/pecan.jpg){: style="width:50%; height:auto;"}
+  ![presentation](assets/images/oral_pecan.jpg){: style="width:50%; height:auto;"}
 
 ## Poster Presentations
 
